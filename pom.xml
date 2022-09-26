@@ -97,13 +97,13 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
+	      <name>walmart release</name>
 	      <url>http://54.163.194.163:6199/zuberkhan/repository/walmarth-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository</name>
+	      <name>walmart snap</name>
 	      <url>http://54.163.194.163:6199/zuberkhan/repository/wallmart-snapshot/</url>
 	    </snapshotRepository>
 	    
