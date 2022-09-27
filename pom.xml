@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://54.236.20.240:9000/</sonar.host.url>
+		<sonar.host.url>http://18.215.150.112:9000/</sonar.host.url>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>Baba@143</sonar.password> 
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>walmart release</name>
-	      <url>http://54.163.194.163:6199/zuberkhan/repository/walmarth-release/</url>
+	      <url>http://54.145.49.59:6199/zuberkhan/repository/walmarth-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>walmart snap</name>
-	      <url>http://54.163.194.163:6199/zuberkhan/repository/wallmart-snapshot/</url>
+	      <url>http://54.145.49.59:6199/zuberkhan/repository/wallmart-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
