@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>walmart snap</name>
-	      <url>http://172.31.17.170:6199/zuberkhan/repository/wallmart-snapshot/</url>
+	      <url>http://18.232.169.186:6199/zuberkhan/repository/wallmart-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
