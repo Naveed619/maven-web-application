@@ -16,7 +16,7 @@ stage("SonarQubeReport"){
      sh "${mavenHome}/bin/mvn clean sonar:sonar"
 }    
  stage('Uploadartifact'){
-   sh "${mavenHome}/bin/mvn clean deploy1"
+   sh "${mavenHome}/bin/mvn clean deploy"
 }
  stage("Deployment"){    
      sshagent(['1474fc1d-0f70-43b6-9a57-1d1fe671420b']) {
