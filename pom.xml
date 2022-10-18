@@ -97,13 +97,13 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>walmart release</name>
+	      <name>maven-release</name>
 	      <url>http://192.168.56.14:8081/zuber/repository/maven-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>walmart snap</name>
+	      <name>maven-snap</name>
 	      <url>http://192.168.56.14:8081/zuber/repository/maven-snapshots/</url>
 	    </snapshotRepository>
 	    
